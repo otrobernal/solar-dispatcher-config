@@ -23,6 +23,12 @@
       "description": "EPFL 4",
       "prefix": "T4",
       "id": "T4"
+    },
+    {
+      "type": "solarRoom",
+      "description": "Cali Julien 1",
+      "prefix": "H1",
+      "id": "H1"
     }
   ],
   "serialResponseTimeout": 250,
