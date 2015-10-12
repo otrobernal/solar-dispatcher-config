@@ -2,19 +2,31 @@
   "devices": [
     {
       "type": "solarRoom",
-      "description": "Solar decathlon room 1",
-      "prefix": "$H",
-      "id": "$H"
+      "description": "EPFL 1",
+      "prefix": "T1",
+      "id": "T1"
     },
     {
       "type": "solarRoom",
-      "description": "Solar decathlon room 2",
-      "prefix": "$J",
-      "id": "$J"
+      "description": "EPFL 2",
+      "prefix": "T2",
+      "id": "T2"
+    },
+    {
+      "type": "solarRoom",
+      "description": "EPFL 3",
+      "prefix": "T3",
+      "id": "T3"
+    },
+    {
+      "type": "solarRoom",
+      "description": "EPFL 4",
+      "prefix": "T4",
+      "id": "T4"
     }
   ],
   "serialResponseTimeout": 250,
-  "epochRefreshInterval": 2000,
+  "epochRefreshInterval": 5000,
   "port": {
     "regexp": "ttyUSB\\d+"
   },
