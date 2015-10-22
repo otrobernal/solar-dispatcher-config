@@ -4,19 +4,22 @@
       "type": "solarRoom",
       "description": "EPFL 1",
       "prefix": "T1",
-      "id": "T1"
+      "id": "T1",
+      "groups": ["team1"]
     },
     {
       "type": "solarRoom",
       "description": "EPFL 2",
       "prefix": "T2",
-      "id": "T2"
+      "id": "T2",
+      "groups": ["team1"]
     },
     {
       "type": "solarRoom",
       "description": "EPFL 3",
       "prefix": "T3",
-      "id": "T3"
+      "id": "T3",
+      "groups": ["team1"]
     },
     {
       "type": "solarKitchen",
