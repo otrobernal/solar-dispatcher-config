@@ -28,10 +28,18 @@
       "id": "T4"
     },
     {
+      "type": "solarKitchen",
+      "description": "Cali Julien 2",
+      "prefix": "H0",
+      "id": "H0",
+      "groups": ["H"]
+    },
+    {
       "type": "solarRoom",
       "description": "Cali Julien 1",
       "prefix": "H1",
-      "id": "H1"
+      "id": "H1",
+      "groups": ["H"]
     }
   ],
   "serialResponseTimeout": 250,
