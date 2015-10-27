@@ -2,11 +2,13 @@
   "parameters":{
     "A": {
       "label": "Consumption",
-      "name":"consumption"
+      "name":"consumption",
+      "factor": 0.01
     },
     "B":{
       "label": "Production",
-      "name": "production"
+      "name": "production",
+      "factor": 0.01
     }
   },
   "multiLog": true,
