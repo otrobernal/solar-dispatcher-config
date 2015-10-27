@@ -40,6 +40,13 @@
       "prefix": "H1",
       "id": "H1",
       "groups": ["H"]
+    },
+    {
+      "type": "solarEnergyMeter",
+      "description": "test energy data",
+      "prefix": "Z9",
+      "id": "Z9",
+      "groups": ["energy"]
     }
   ],
   "serialResponseTimeout": 250,

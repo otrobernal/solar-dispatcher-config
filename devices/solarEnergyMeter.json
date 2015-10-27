@@ -1,0 +1,17 @@
+{
+  "parameters":{
+    "A": {
+      "label": "Consumption",
+      "name":"consumption"
+    },
+    "B":{
+      "label": "Production",
+      "name": "production"
+    }
+  },
+  "multiLog": true,
+  "hasEvent": false,
+  "refresh": 1000000,
+  "nbParam": 2,
+  "nbParamCompact": 2
+}
