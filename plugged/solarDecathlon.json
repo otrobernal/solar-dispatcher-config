@@ -3,6 +3,13 @@
     {
       "type": "solarRoom",
       "description": "EPFL 1",
+      "prefix": "T0",
+      "id": "T0",
+      "groups": ["team1", "team1_boards"]
+    },
+    {
+      "type": "solarRoom",
+      "description": "EPFL 1",
       "prefix": "T1",
       "id": "T1",
       "groups": ["team1", "team1_boards"]
