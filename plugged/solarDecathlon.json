@@ -56,6 +56,27 @@
       "groups": ["H"]
     },
     {
+      "type": "solarKitchen",
+      "description": "Cali Julien A0",
+      "prefix": "A0",
+      "id": "A0",
+      "groups": ["A"]
+    },
+    {
+      "type": "solarRoom",
+      "description": "Cali Julien A1",
+      "prefix": "A1",
+      "id": "A1",
+      "groups": ["A"]
+    },
+    {
+      "type": "solarRoom",
+      "description": "Cali Julien A3",
+      "prefix": "A3",
+      "id": "A2",
+      "groups": ["A"]
+    },
+    {
       "type": "solarEnergyMeter",
       "description": "test energy data",
       "prefix": "Z9",
