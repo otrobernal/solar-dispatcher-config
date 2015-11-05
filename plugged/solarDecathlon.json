@@ -56,6 +56,13 @@
       "groups": ["H"]
     },
     {
+      "type": "solarRoom",
+      "description": "Cali Julien H3",
+      "prefix": "H3",
+      "id": "H3",
+      "groups": ["H"]
+    },
+    {
       "type": "solarKitchen",
       "description": "Cali Julien A0",
       "prefix": "A0",
