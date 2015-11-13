@@ -91,6 +91,13 @@
       "groups": ["A"]
     },
     {
+      "type": "solarRoom",
+      "description": "Cali Julien M1",
+      "prefix": "M1",
+      "id": "M1",
+      "groups": ["M"]
+    },
+    {
       "type": "solarEnergyMeter",
       "description": "test energy data",
       "prefix": "Z9",
