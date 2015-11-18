@@ -127,6 +127,13 @@
     },
     {
       "type": "solarRoom",
+      "description": "Cali Julien N1",
+      "prefix": "N1",
+      "id": "N1",
+      "groups": ["N"]
+    },
+    {
+      "type": "solarRoom",
       "description": "Cali Julien N2",
       "prefix": "N2",
       "id": "N2",
