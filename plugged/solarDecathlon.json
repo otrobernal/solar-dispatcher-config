@@ -145,6 +145,13 @@
       "prefix": "Z9",
       "id": "Z9",
       "groups": ["energy"]
+    },
+    {
+      "type": "solarEnergyMeter",
+      "description": "test energy data",
+      "prefix": "Z8",
+      "id": "Z8",
+      "groups": ["energy"]
     }
   ],
   "serialResponseTimeout": 250,
