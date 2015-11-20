@@ -219,8 +219,29 @@
     {
       "type": "solarKitchen",
       "description": "Cali Julien E0",
-      "prefix": "N0",
+      "prefix": "E0",
       "id": "E0",
+      "groups": ["E"]
+    },
+    {
+      "type": "solarRoom",
+      "description": "Cali Julien E1",
+      "prefix": "E1",
+      "id": "E1",
+      "groups": ["E"]
+    },
+    {
+      "type": "solarRoom",
+      "description": "Cali Julien E2",
+      "prefix": "E2",
+      "id": "E2",
+      "groups": ["E"]
+    },
+    {
+      "type": "solarRoom",
+      "description": "Cali Julien E3",
+      "prefix": "E3",
+      "id": "E3",
       "groups": ["E"]
     },
     {
