@@ -140,6 +140,13 @@
       "groups": ["N"]
     },
     {
+      "type": "solarKitchen",
+      "description": "Cali Julien B0",
+      "prefix": "B0",
+      "id": "B0",
+      "groups": ["B"]
+    },
+    {
       "type": "solarRoom",
       "description": "Cali Julien B1",
       "prefix": "B1",
@@ -152,6 +159,13 @@
       "prefix": "B3",
       "id": "B3",
       "groups": ["B"]
+    },
+    {
+      "type": "solarKitchen",
+      "description": "Cali Julien C0",
+      "prefix": "C0",
+      "id": "C0",
+      "groups": ["C"]
     },
     {
       "type": "solarRoom",
@@ -174,6 +188,13 @@
       "id": "C3",
       "groups": ["C"]
     },
+    {
+      "type": "solarKitchen",
+      "description": "Cali Julien D0",
+      "prefix": "D0",
+      "id": "D0",
+      "groups": ["D"]
+    },
      {
       "type": "solarRoom",
       "description": "Cali Julien D1",
@@ -194,6 +215,13 @@
       "prefix": "D3",
       "id": "D3",
       "groups": ["D"]
+    },
+    {
+      "type": "solarKitchen",
+      "description": "Cali Julien E0",
+      "prefix": "N0",
+      "id": "E0",
+      "groups": ["E"]
     },
     {
       "type": "solarEnergyMeter",
