@@ -147,6 +147,13 @@
       "groups": ["B"]
     },
     {
+      "type": "solarRoom",
+      "description": "Cali Julien B3",
+      "prefix": "B3",
+      "id": "B3",
+      "groups": ["B"]
+    },
+    {
       "type": "solarEnergyMeter",
       "description": "test energy data",
       "prefix": "Z9",
