@@ -63,10 +63,24 @@
       "groups": ["F"]
     },
     {
+      "type": "solarKitchen",
+      "description": "Cali Julien 0",
+      "prefix": "G0",
+      "id": "G0",
+      "groups": ["G"]
+    },
+    {
       "type": "solarRoom",
       "description": "Cali Julien 1",
       "prefix": "G1",
       "id": "G1",
+      "groups": ["G"]
+    },
+    {
+      "type": "solarRoom",
+      "description": "Cali Julien G3",
+      "prefix": "G3",
+      "id": "G3",
       "groups": ["G"]
     },
     {
