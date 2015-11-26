@@ -322,7 +322,7 @@
   },
   "baudrate": 38400,
   "sqlite": {
-    "dir": "/usr/local/dispatcher/data/sqlite",
+    "dir": "/usr/local/dispatcher/data/sqlite/",
     "maxRecords": {
       "entry": 100000,
       "minute": 10000,
