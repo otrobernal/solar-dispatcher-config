@@ -71,9 +71,16 @@
     },
     {
       "type": "solarRoom",
-      "description": "Cali Julien 1",
+      "description": "Cali Julien G1",
       "prefix": "G1",
       "id": "G1",
+      "groups": ["G"]
+    },
+    {
+      "type": "solarRoom",
+      "description": "Cali Julien G2",
+      "prefix": "G2",
+      "id": "G2",
       "groups": ["G"]
     },
     {
