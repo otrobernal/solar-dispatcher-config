@@ -258,6 +258,13 @@
       "id": "C3",
       "groups": ["C"]
     },
+     {
+      "type": "solarRoom",
+      "description": "Cali Julien C4",
+      "prefix": "C4",
+      "id": "C4",
+      "groups": ["C"]
+    },
     {
       "type": "solarKitchen",
       "description": "Cali Julien D0",
