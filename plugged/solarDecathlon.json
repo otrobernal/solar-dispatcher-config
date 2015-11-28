@@ -322,6 +322,62 @@
       "groups": ["E"]
     },
     {
+      "type": "solarKitchen",
+      "description": "Cali Julien J0",
+      "prefix": "J0",
+      "id": "J0",
+      "groups": ["J"]
+    },
+    {
+      "type": "solarRoom",
+      "description": "Cali Julien J1",
+      "prefix": "J1",
+      "id": "J1",
+      "groups": ["J"]
+    },
+    {
+      "type": "solarRoom",
+      "description": "Cali Julien J2",
+      "prefix": "J2",
+      "id": "J2",
+      "groups": ["J"]
+    },
+    {
+      "type": "solarRoom",
+      "description": "Cali Julien  J3",
+      "prefix": "J3",
+      "id": "J3",
+      "groups": ["J"]
+    },
+    {
+      "type": "solarKitchen",
+      "description": "Cali Julien I0",
+      "prefix": "I0",
+      "id": "I0",
+      "groups": ["I"]
+    },
+    {
+      "type": "solarRoom",
+      "description": "Cali Julien I1",
+      "prefix": "I1",
+      "id": "I1",
+      "groups": ["I"]
+    },
+    {
+      "type": "solarRoom",
+      "description": "Cali Julien I2",
+      "prefix": "I2",
+      "id": "I2",
+      "groups": ["I"]
+    },
+    {
+      "type": "solarRoom",
+      "description": "Cali Julien  I3",
+      "prefix": "I3",
+      "id": "I3",
+      "groups": ["I"]
+    },
+    {
       "type": "solarEnergyMeter",
       "description": "test energy data",
       "prefix": "Z9",
